@@ -6,7 +6,10 @@ const VisionComponent = () => {
       <div>
         <div className="text-center mt-100 flex flex-col gap-5">
           <p>BUILT ON SOLID GROUND</p>
-          <h1>One Vision. Four Pathways to Impact.</h1>
+          <h1>
+            One Vision.
+            <br /> Four Pathways to Impact.
+          </h1>
           <p className="px-100 text-center ">
             The Institute of Trusted Leadership operates through an integrated
             ecosystem of specialized divisions, each designed to address
@@ -15,8 +18,8 @@ const VisionComponent = () => {
           </p>
         </div>
 
-        <div className="cards">
-          <dvi>
+        <div className="cards flex gap-10 h-100 my-30">
+          <div className="border flex-1 ">
             <div>OPEN TO ALL</div>
             <div></div>
             <div>
@@ -29,8 +32,8 @@ const VisionComponent = () => {
                 community connection.
               </p>
             </div>
-          </dvi>
-          <div>
+          </div>
+          <div className="border">
             <div>FOR ORGANIZATIONS</div>
             <div></div>
             <div>
@@ -38,7 +41,7 @@ const VisionComponent = () => {
               <p>Strategic Leadership Partnerships</p>
             </div>
           </div>
-          <div>
+          <div className="border">
             <div>FOR INDIVIDUALS & TEAMS</div>
             <div></div>
             <div>
@@ -46,7 +49,7 @@ const VisionComponent = () => {
               <p>Learning That Transforms</p>
             </div>
           </div>
-          <div>
+          <div className="border">
             <div>For Research & Innovation</div>
             <div></div>
             <div>

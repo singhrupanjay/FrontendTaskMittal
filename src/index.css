@@ -10,7 +10,6 @@
 .ibm-plex-serif-extralight {
   font-family: "IBM Plex Serif", serif;
   font-weight: 200;
-  font-style: normal;
 }
 
 .ibm-plex-serif-light {
@@ -89,12 +88,10 @@
   display: flex;
   justify-content: space-between;
   font-family: "IBM Plex Serif", serif;
-  font-weight: 500;
 }
 
 .nav-links {
   font-family: "IBM Plex Serif", serif;
   font-weight: 500;
-  gap: 30px;
-  display: flex;
 }
+
