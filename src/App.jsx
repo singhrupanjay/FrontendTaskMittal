@@ -9,7 +9,7 @@ import VisionComponent from "./components/VisionComponent";
 function App() {
   return (
     <>
-      <div className="mx-20 my-10">
+      <div className="mx-20 my-10 ">
         <NavComponent />
 
         <HeroComponent />

@@ -13,6 +13,8 @@ const HeroComponent = () => {
         Where purpose meets people. Where organizations transform through
         trusted leadership, continuous learning, & human responsibility.
       </div>
+
+      
     </div>
   );
 };
