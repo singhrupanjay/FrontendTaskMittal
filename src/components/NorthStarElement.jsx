@@ -12,8 +12,8 @@ import cup from "../assets/cup.png";
 
 export default function NorthStarElement() {
   return (
-    <div className="flex items-center justify-center ">
-      <div className="relative w-100 h-100 rounded-full  bg-white/10 border-2 border-dashed border-white flex items-center justify-center">
+    <div className="flex items-center justify-center  " >
+      <div className=" relative w-100 h-100 rounded-full  bg-white/10 border-2 border-dashed border-white flex items-center justify-center">
         <div className="absolute w-50   rounded-full flex items-center justify-center text-black font-bold">
           <img src={star} alt="star" />
         </div>

@@ -23,12 +23,12 @@ const VisionComponent = () => {
         <div className="cards flex gap-10 h-150 my-30 px-50">
           <div className="border min-w-auto rounded-lg">
             <div className="text-[14px] ibm-plex-sans-medium">OPEN TO ALL</div>
-            <div></div>
-            <div>
+            <div className="w-5/5 bg-gray-400 h-1/2 mt-10  "></div>
+            <div className="px-10">
               <h1 className="ibm-plex-serif-regular text-[32px]">
                 LUCA The Leader
               </h1>
-              <p className="ibm-plex-serif-regular text-[20px]">
+              <p className="ibm-plex-serif-regular text-[20px] mb-5">
                 Where Leadership Awareness Begins
               </p>
               <p className="ibm-plex-sans-regular text-[14px]">
@@ -64,7 +64,7 @@ const VisionComponent = () => {
             </div>
           </div>
           <div className="border p-5 rounded-lg">
-            <div className="text-[12px] mb-10">For Research & Innovation</div>
+            <div className="text-[12px] mb-10">FOR RESEARCH & INNOVATION</div>
             <div></div>
             <div className="flex pt-40">
               <h1 className="ibm-plex-serif-regular text-[32px] [writing-mode:vertical-rl] rotate-180">

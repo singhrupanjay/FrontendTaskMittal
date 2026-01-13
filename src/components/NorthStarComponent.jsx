@@ -8,10 +8,15 @@ const NorthStarComponent = () => {
         <p className="my-10 ibm-plex-serif-regular text-[16px]">
           Scroll to Discover
         </p>
+       
+        
         <div className="star-div flex justify-around h-150 py-40">
+          
           <div className="star-item">
+            
             <NorthStarElement />
           </div>
+          
           <div className="start-text">
             <p className="ibm-plex-sans-medium">what drives us</p>
             <p className="ibm-plex-serif-regular text-6xl my-5">

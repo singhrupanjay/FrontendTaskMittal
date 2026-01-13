@@ -20,7 +20,7 @@ const TransformLeadershipComp = () => {
 
       <div class="flex justify-center gap-4 h-fit px-50 ">
         <div className="bar-text1 -pl-30 flex gap-7">
-          <div className="w-30 h-150 bg-amber-300"></div>
+          <div className="w-30 h-150 bg-gray-700"></div>
           <div>
             <h1 className="ibm-plex-serif-medium text-[28px]">
               Research & Insights
@@ -33,7 +33,7 @@ const TransformLeadershipComp = () => {
           </div>
         </div>
         <div className="bar-text2 mt-50 flex gap-7">
-          <div className="w-30 h-100 bg-amber-300"></div>
+          <div className="w-30 h-100 bg-gray-700"></div>
           <div>
             <h1 className="ibm-plex-serif-medium text-[28px]">
               Training & Development
@@ -45,8 +45,8 @@ const TransformLeadershipComp = () => {
             </ul>
           </div>
         </div>
-        <div className="bar-text3 mt-100 flex gap-7">
-          <div className="w-30 h-50 bg-amber-300"></div>
+        <div className="bar-text3 mt-100 flex gap-7 ">
+          <div className="w-30 h-50 bg-gray-700  "></div>
           <div>
             <h1 className="ibm-plex-serif-medium text-[28px]">
               Consulting & Implementation
